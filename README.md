@@ -33,6 +33,40 @@ https://github.com/anikettkashyap/sweet-shop-management-system
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/anikettkashyap
+- # Sweet Shop Management System
+
+This is a full-stack Sweet Shop Management System built as part of a
+technical assessment using **Test-Driven Development (TDD)**.
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Node.js
+- Express
+- TypeScript
+- PostgreSQL
+- JWT Authentication
+
+**Frontend**
+- React
+
+**Testing**
+- Jest
+- Supertest
+
+---
+
+## 📁 Project Structure
+
+```text
+sweet-shop-management-system/
+├── backend/
+├── frontend/
+├── screenshots/
+└── README.md
+
 
 
 <!--
